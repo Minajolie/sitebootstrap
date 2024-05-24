@@ -21,33 +21,31 @@ width: 12%;
     float: right;
     text-align: left;
 }
-.navbar-toggler{
-    transform: translateY(-50px);
-}
+/*  */
 #banner{
     background-image: linear-gradient(to right,#723D8E, #672B77 );
 }
-.col-6{
+.agency{
     padding: 100px 30px;
 }
-.col-6 h1{
+.agency h1{
     text-transform: uppercase;
     color: #fff;
 }
-.col-6 p{
+.agency p{
     color: #fff;
     font-size: 13px;
 }
-.col-6 a{
+.agency a{
     color: #fff;
     text-decoration: none;
     margin-left: 5px;
 }
-.col-6 a img{
+.agency a img{
     width: 10%;
     color: #fff;
 }
-.col-6 img{
+.play img{
 
     width: 50%;
 }
